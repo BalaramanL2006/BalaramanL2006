@@ -1,11 +1,10 @@
 
 <img
-  src="./profile.jpeg"
+  src="./PROFILE.png"
   width="180"
   height="180"
   alt="Balaraman L"
   align="left"
-  style="border-radius: 50%; object-fit: cover; margin-right: 28px;"
 />
 
 <div align="center">
@@ -20,31 +19,29 @@
     <strong>Front-End Development Engineer</strong>
   </p>
 
-  <p>
-    <a href="https://github.com/BalaramanL2006">
-      <img src="https://img.icons8.com/ios-glyphs/48/github.png"
-           width="20" height="20" alt="GitHub" align="center" />
-      GitHub
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/balaraman-l/">
-      <img src="https://img.icons8.com/color/48/linkedin.png"
-           width="20" height="20" alt="LinkedIn" align="center" />
-      LinkedIn
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:balaramanperumal91@gmail.com">
-      <img src="https://img.icons8.com/color/48/gmail-new.png"
-           width="20" height="20" alt="Gmail" align="center" />
-      Gmail
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://medium.com/@balaramanperumal91">
-      <img src="https://img.icons8.com/ios-filled/50/medium-logo.png"
-           width="20" height="20" alt="Medium" align="center" />
-      Medium
-    </a>
-  </p>
+  
+<p>
+  <a href="https://github.com/BalaramanL2006">
+    <img src="https://img.icons8.com/ios-glyphs/48/github.png"
+         width="28" height="28" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/balaraman-l/">
+    <img src="https://img.icons8.com/color/48/linkedin.png"
+         width="28" height="28" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:balaramanperumal91@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png"
+         width="28" height="28" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@balaramanperumal91">
+    <img src="https://img.icons8.com/ios-filled/50/medium-logo.png"
+         width="28" height="28" alt="Medium" />
+  </a>
+</p>
+
 
 </div>
 
