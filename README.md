@@ -1,26 +1,33 @@
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
-      <td width="220" align="center" valign="middle">
-        <img src="./Profile.jpg" width="200" alt="Balaraman L" />
+      <td align="center" valign="middle" width="220">
+        <img
+          src="./Profile.jpg"
+          width="180"
+          alt="Balaraman L"
+          style="border-radius: 50%;"
+        />
       </td>
+
       <td align="left" valign="middle">
         <h1>Hi, I'm Balaraman L</h1>
         <h3>Front-End Development Engineer</h3>
-        <br/>
 
-        <a href="https://github.com/BalaramanL2006">
-          <img src="https://img.shields.io/github/followers/BalaramanL2006?label=FOLLOWERS&style=for-the-badge&logo=github&color=1877F2" />
-        </a>
-        <a href="https://www.linkedin.com/in/balaraman-l/">
-          <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin" />
-        </a>
-        <a href="mailto:balaramanperumal91@gmail.com">
-          <img src="https://img.shields.io/badge/GMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-        <a href="https://medium.com/@balaramanperumal91">
-          <img src="https://img.shields.io/badge/MEDIUM-READ_MY_BLOG-000000?style=for-the-badge&logo=medium" />
-        </a>
+        <p>
+          <a href="https://github.com/BalaramanL2006">
+            <img src="https://img.shields.io/github/followers/BalaramanL2006?label=FOLLOWERS&style=for-the-badge&logo=github&color=1877F2" alt="GitHub Followers" />
+          </a>
+          <a href="https://www.linkedin.com/in/balaraman-l/">
+            <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+          </a>
+          <a href="mailto:balaramanperumal91@gmail.com">
+            <img src="https://img.shields.io/badge/GMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+          </a>
+          <a href="https://medium.com/@balaramanperumal91">
+            <img src="https://img.shields.io/badge/MEDIUM-READ_MY_BLOG-000000?style=for-the-badge&logo=medium" alt="Medium" />
+          </a>
+        </p>
       </td>
     </tr>
   </table>
