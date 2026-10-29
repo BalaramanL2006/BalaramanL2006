@@ -2,7 +2,7 @@
   <table border="0">
     <tr>
       <td width="220" align="center" valign="middle">
-        <img src="./profile.jpg" width="200" alt="Balaraman L" />
+        <img src="./Profile.jpg" width="200" alt="Balaraman L" />
       </td>
       <td align="left" valign="middle">
         <h1>Hi, I'm Balaraman L</h1>
