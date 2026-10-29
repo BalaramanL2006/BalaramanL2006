@@ -1,11 +1,11 @@
 
 <div align="center">
 
+  <img src="./PROFILE.png" width="180" height="180" alt="Balaraman L"  />
+
   <h1>Hi, I'm <span style="color: #1D6FE5;">Balaraman L</span></h1>
 
   <h3>Front-End Development Engineer</h3>
-
-  <img src="./PROFILE.png" width="180" height="180" alt="Balaraman L" style="margin-bottom: 40px;" />
 
   <p>
     <a href="https://github.com/BalaramanL2006">
