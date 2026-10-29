@@ -5,22 +5,18 @@
   height="180"
   alt="Balaraman L"
   align="left"
+  style="border-radius: 50%; object-fit: cover; margin-left: 20px; margin-right: 28px;"
+
 />
 
 <div align="center">
 
-  <p>
-    <strong>
-      <span style="font-size: 32px;">Hi, I'm Balaraman L</span>
-    </strong>
-  </p>
+    <h1>Hi, I'm
+       <span style="color: #1D6FE5;">Balaraman L</span>
+    </h1>h1>
 
-  <p>
-    <strong>Front-End Development Engineer</strong>
-  </p>
-
+    <h3>Front-End Development Engineer</h3>
   
-<p>
   <a href="https://github.com/BalaramanL2006">
     <img src="https://img.icons8.com/ios-glyphs/48/github.png"
          width="28" height="28" alt="GitHub" />
