@@ -1,65 +1,35 @@
 
 <div align="center">
-  <table>
-    <tr>
-     <td width="220" align="center" valign="middle">
-  <img
-    src="./Profile.jpg"
-    width="200"
-    height="200"
-    alt="Balaraman L"
-    style="border-radius: 50%; object-fit: cover;"
-  />
-</td>
-      <td align="left" valign="middle">
-        <h1>
-          Hi, I'm <span style="color:#1d6fe5;">Balaraman L</span>
-        </h1>
-        <h2>Front-End Development Engineer</h2>
-        <p>
-          <a href="https://github.com/BalaramanL2006">
-            <img
-              src="https://img.icons8.com/ios-glyphs/48/github.png"
-              width="24"
-              alt="GitHub"
-            />
-            <strong>GitHub</strong>
-          </a>
-          &nbsp;&nbsp;
-          <a href="https://www.linkedin.com/in/balaraman-l/">
-            <img
-              src="https://img.icons8.com/color/48/linkedin.png"
-              width="24"
-              alt="LinkedIn"
-            />
-            <strong>LinkedIn</strong>
-          </a>
-          &nbsp;&nbsp;
-          <a href="mailto:balaramanperumal91@gmail.com">
-            <img
-              src="https://img.icons8.com/color/48/gmail-new.png"
-              width="24"
-              alt="Gmail"
-            />
-            <strong>Gmail</strong>
-          </a>
-          &nbsp;&nbsp;
-          <a href="https://medium.com/@balaramanperumal91">
-            <img
-              src="https://img.icons8.com/ios-filled/50/medium-logo.png"
-              width="24"
-              alt="Medium"
-            />
-            <strong>Medium</strong>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img src="./profile.jpeg" width="180" alt="Balaraman L" align="left" />
+
+  <h1>Hi, I'm Balaraman L</h1>
+
+  <h2>Front-End Development Engineer</h2>
+
+  <p>
+    <a href="https://github.com/BalaramanL2006">
+      <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="22" alt="GitHub" />
+      GitHub
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/balaraman-l/">
+      <img src="https://img.icons8.com/color/48/linkedin.png" width="22" alt="LinkedIn" />
+      LinkedIn
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:balaramanperumal91@gmail.com">
+      <img src="https://img.icons8.com/color/48/gmail-new.png" width="22" alt="Gmail" />
+      Gmail
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://medium.com/@balaramanperumal91">
+      <img src="https://img.icons8.com/ios-filled/50/medium-logo.png" width="22" alt="Medium" />
+      Medium
+    </a>
+  </p>
 </div>
 
-
-<br clear="left"/>
+<br clear="left" />
 
 ---
 
