@@ -3,7 +3,7 @@
 
   <img src="./PROFILE.png" width="180" height="180" alt="Balaraman L"  />
 
-  <h1>Hi, I'm <span style="color: #1D6FE5;">Balaraman L</span></h1>
+  <h1>Hi, I'm <span style="color: #1D6FE5;">Balaraman Lakshmanasamy </span></h1>
 
   <h3>Front-End Development Engineer</h3>
 
@@ -26,12 +26,7 @@
   </p>
 
 </div>
-
-
-
 <br clear="left" />
-
-
 
 ---
 
