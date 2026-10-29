@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./<img width="877" height="877" alt="Profile" src="https://github.com/user-attachments/assets/2a4ca2c0-bfac-4653-af7b-ea2ff46a4f38" />
+" width="180" alt="Balaraman L" 
+       style="border-radius: 50%;" />
+</p>
 
 <h1 align="center">Hi , I'm Balaraman L</h1>
 <h3 align="center">Front-End Development Engineer </h3>
@@ -85,19 +90,19 @@
 <table>
   <tr>
     <td align="center" width="50"><img src="https://img.icons8.com/color/48/gmail-new.png" width="28" alt="Gmail"/></td>
-    <td><a href="mailto:balaramanperumal91@gmail.com">Gmail</a><br/><sub>Drop me an email</sub></td>
+    <td><a href="mailto:balaramanperumal91@gmail.com">Gmail</a></td>
   </tr>
   <tr>
     <td align="center" width="50"><img src="https://img.icons8.com/color/48/linkedin.png" width="28" alt="LinkedIn"/></td>
-    <td><a href="https://www.linkedin.com/in/balaraman-l/">LinkedIn</a><br/><sub>Let's connect professionally</sub></td>
+    <td><a href="https://www.linkedin.com/in/balaraman-l/">LinkedIn</a></td>
   </tr>
   <tr>
     <td align="center" width="50"><img src="https://img.icons8.com/ios-glyphs/48/github.png" width="28" alt="GitHub"/></td>
-    <td><a href="https://github.com/BalaramanL2006">GitHub</a><br/><sub>Explore my projects</sub></td>
+    <td><a href="https://github.com/BalaramanL2006">GitHub</a></td>
   </tr>
   <tr>
     <td align="center" width="50"><img src="https://img.icons8.com/glyph-neue/48/medium-monogram.png" width="28" alt="Medium"/></td>
-    <td><a href="https://medium.com/@balaramanperumal91">Medium</a><br/><sub>Read my technical blogs</sub></td>
+    <td><a href="https://medium.com/@balaramanperumal91">Medium</a></td>
   </tr>
 </table>
 
