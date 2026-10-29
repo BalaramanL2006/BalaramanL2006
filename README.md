@@ -11,9 +11,7 @@
     src="./PROFILE.png"
     width="180"
     height="180"
-    alt="Balaraman L"
-    style="border-radius: 50%; object-fit: cover;"
-  />
+    alt="Balaraman L" />
 
   <p>
     <a href="https://github.com/BalaramanL2006">
