@@ -1,41 +1,41 @@
 
-<div style="display: flex; align-items: center; gap: 24px;">
-
+<div align="left">
   <img
     src="./PROFILE.png"
     width="180"
     height="180"
     alt="Balaraman L"
-    style="border-radius: 50%; object-fit: cover; flex-shrink: 0;"
+    align="left"
+    style="margin-right: 24px; border-radius: 50%;"
   />
 
-  <div>
-    <h1>
-      Hi, I'm <span style="color: #1D6FE5;">Balaraman L</span>
-    </h1>
+  <h1>
+    Hi, I'm <span style="color: #1D6FE5;">Balaraman L</span>
+  </h1>
 
-    <h3>Front-End Development Engineer</h3>
+  <h3>Front-End Development Engineer</h3>
 
-    <p>
-      <a href="https://github.com/BalaramanL2006">
-        <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="28" alt="GitHub" />
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/balaraman-l/">
-        <img src="https://img.icons8.com/color/48/linkedin.png" width="28" alt="LinkedIn" />
-      </a>
-      &nbsp;&nbsp;
-      <a href="mailto:balaramanperumal91@gmail.com">
-        <img src="https://img.icons8.com/color/48/gmail-new.png" width="28" alt="Gmail" />
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://medium.com/@balaramanperumal91">
-        <img src="https://img.icons8.com/ios-filled/50/medium-logo.png" width="28" alt="Medium" />
-      </a>
-    </p>
-  </div>
-
+  <p>
+    <a href="https://github.com/BalaramanL2006">
+      <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="28" alt="GitHub" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/balaraman-l/">
+      <img src="https://img.icons8.com/color/48/linkedin.png" width="28" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:balaramanperumal91@gmail.com">
+      <img src="https://img.icons8.com/color/48/gmail-new.png" width="28" alt="Gmail" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://medium.com/@balaramanperumal91">
+      <img src="https://img.icons8.com/ios-filled/50/medium-logo.png" width="28" alt="Medium" />
+    </a>
+  </p>
 </div>
+
+<br clear="left" />
+
 
 
 ---
