@@ -1,19 +1,19 @@
 
-<div align="left">
-  <img
-    src="./PROFILE.png"
-    width="180"
-    height="180"
-    alt="Balaraman L"
-    align="left"
-    style="margin-right: 24px; border-radius: 50%;"
-  />
+<div align="center">
 
   <h1>
     Hi, I'm <span style="color: #1D6FE5;">Balaraman L</span>
   </h1>
 
   <h3>Front-End Development Engineer</h3>
+
+    <img
+    src="./PROFILE.png"
+    width="180"
+    height="180"
+    alt="Balaraman L"
+    style="border-radius: 50%; object-fit: cover;"
+  />
 
   <p>
     <a href="https://github.com/BalaramanL2006">
@@ -32,7 +32,9 @@
       <img src="https://img.icons8.com/ios-filled/50/medium-logo.png" width="28" alt="Medium" />
     </a>
   </p>
+
 </div>
+
 
 <br clear="left" />
 
