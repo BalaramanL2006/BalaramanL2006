@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="./<img width="877" height="877" alt="Profile" src="https://github.com/user-attachments/assets/2a4ca2c0-bfac-4653-af7b-ea2ff46a4f38" />
-" width="180" alt="Balaraman L" 
+  <img src="./Profile.jpg" width="180" alt="Balaraman L" 
        style="border-radius: 50%;" />
 </p>
 
