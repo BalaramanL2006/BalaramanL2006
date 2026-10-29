@@ -1,17 +1,7 @@
 
-<h1 align="left">Hi 👋, I'm Balaraman L</h1>
-<h3 align="left">Front-End Development Engineer </h3>
+<h1 align="center">Hi , I'm Balaraman L</h1>
+<h3 align="center">Front-End Development Engineer </h3>
 
-<hr></hr>
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github" />
-  <a href="https://www.linkedin.com/in/balaraman-l/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:balaramanperumal91@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail" />
-  </a>
-</p>
 ---
 
 ### About Me
@@ -92,23 +82,27 @@
 
 ### Connect With Me
 
-<p align="left">
-  <a href="mailto:balaramanperumal91@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/balaraman-l/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/BalaramanL2006" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40" alt="GitHub"/>
-  </a>
-   <a href="https://medium.com/@balaramanperumal91" target="_blank">
-    <img src="https://img.shields.io/badge/MEDIUM-READ%20MY%20BLOG-black?style=for-the-badge&logo=medium" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50"><img src="https://img.icons8.com/color/48/gmail-new.png" width="28" alt="Gmail"/></td>
+    <td><a href="mailto:balaramanperumal91@gmail.com">Gmail</a><br/><sub>Drop me an email</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="50"><img src="https://img.icons8.com/color/48/linkedin.png" width="28" alt="LinkedIn"/></td>
+    <td><a href="https://www.linkedin.com/in/balaraman-l/">LinkedIn</a><br/><sub>Let's connect professionally</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="50"><img src="https://img.icons8.com/ios-glyphs/48/github.png" width="28" alt="GitHub"/></td>
+    <td><a href="https://github.com/BalaramanL2006">GitHub</a><br/><sub>Explore my projects</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="50"><img src="https://img.icons8.com/glyph-neue/48/medium-monogram.png" width="28" alt="Medium"/></td>
+    <td><a href="https://medium.com/@balaramanperumal91">Medium</a><br/><sub>Read my technical blogs</sub></td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
-  💡 Learn • Build • Improve • Repeat
+   Learn • Build • Improve • Repeat
 </p>
