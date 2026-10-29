@@ -5,7 +5,7 @@
 
   <h3>Front-End Development Engineer</h3>
 
-  <img src="./PROFILE.png" width="180" height="180" alt="Balaraman L" />
+  <img src="./PROFILE.png" width="180" height="180" alt="Balaraman L" style="margin-bottom: 40px;" />
 
   <p>
     <a href="https://github.com/BalaramanL2006">
